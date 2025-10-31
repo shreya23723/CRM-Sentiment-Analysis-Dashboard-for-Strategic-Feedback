@@ -113,8 +113,8 @@ Challenge 3: Ensuring High Accuracy & Context Understanding
 
 10. Contributors
 👨‍💻 Author: Shreya Santosh Bartakke
-📩 Contact: aryannikam030@gmail.com
-📂 GitHub Repo: https://github.com/aryan-nikam/CRM-system
+📩 Contact: shreyab2307@gmail.com
+📂 GitHub Repo: https://github.com/shreya23723/CRM-Sentiment-Analysis-Dashboard-for-Strategic-Feedback
 
 11. License
 📄 MIT License – Open-source for educational and research purposes.
